@@ -1,0 +1,1 @@
+create table warc(warc_filename text, warc_record_length text, warc_record_offset text, warc_segment text);

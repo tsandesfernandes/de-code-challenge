@@ -1,0 +1,1 @@
+aws s3 cp s3://commoncrawl/cc-index/table/cc-main/warc/crawl=CC-MAIN-2022-40/subset=warc/part-00000-26160df0-1827-4787-a515-95ecaa2c9688.c000.gz.parquet .
